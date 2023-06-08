@@ -1,6 +1,6 @@
 import Sidebar from '@/components/Sidebar'
 import './globals.css'
-import { Figtree, Inter } from 'next/font/google'
+import { Figtree } from 'next/font/google'
 
 const font = Figtree({ subsets: ['latin'] })
 
